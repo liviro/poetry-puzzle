@@ -4,7 +4,7 @@ My screen is the sole source of light
 It's bright and sharp, it hurts to see.
 On GitHub I am reading thus
 The things that you built in D3.
-Going down through your changes, plus
+Going down through your deltas, plus
 The numbers, numbers you commit.
 The minutes I will scan across
 At least the hours I omit...
