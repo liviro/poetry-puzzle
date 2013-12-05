@@ -8,7 +8,7 @@ Going down through your deltas, plus
 The numbers, numbers you commit.
 The minutes I will scan across
 At least the hours I omit...
-These deltas of your code do show
+These snapshots of your code do show
 Some glimpses of your mind and whit.
 Maybe I should just say "Hello,"
 And ask "Do you remember me?"
