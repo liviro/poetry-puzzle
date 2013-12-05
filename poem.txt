@@ -6,7 +6,7 @@ On GitHub I am reading thus
 The things that you built in D3.
 Going down through your deltas, plus
 The numbers that hide in your commit.
-The minutes I will scan across
+The minutes I will make my truss
 And go through them, bit after bit.
 These snapshots of your code do show
 Some glimpses of your mind and whit.
